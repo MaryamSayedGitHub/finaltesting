@@ -1,1 +1,1 @@
-print(25-562)
+print("cfghjkl")

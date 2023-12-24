@@ -11,7 +11,7 @@ with st.sidebar:
     )
 
 if selected == "Home Page":
-    st.write("# We're glad to see you here....")
+    st.write("# We're to see you here....")
 
     def main():
         # Display the image using the st.image command.

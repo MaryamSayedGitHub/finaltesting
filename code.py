@@ -1,2 +1,3 @@
 
-print(25-65)
+print("cfghjk")
+
